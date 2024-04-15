@@ -1,0 +1,144 @@
+z_score-mae100:
+y = 0.986x + (0.028)
+res_std = 0.1213
+Pearson's r = 0.9153
+Lin's ccc = 0.9103
+RMSE = 0.1233
+
+z_score-mse100:
+y = 1.022x + (0.005)
+res_std = 0.1102
+Pearson's r = 0.9331
+Lin's ccc = 0.9278
+RMSE = 0.1116
+
+z_score-smooth100:
+y = 0.931x + (0.057)
+res_std = 0.1070
+Pearson's r = 0.9232
+Lin's ccc = 0.9203
+RMSE = 0.1109
+
+l2_norm-mae100:
+y = 0.985x + (0.022)
+res_std = 0.1141
+Pearson's r = 0.9192
+Lin's ccc = 0.9158
+RMSE = 0.1151
+
+l2_norm-mse100:
+y = 0.985x + (0.044)
+res_std = 0.1101
+Pearson's r = 0.9316
+Lin's ccc = 0.9232
+RMSE = 0.1160
+
+l2_norm-smooth100:
+y = 0.980x + (0.021)
+res_std = 0.1126
+Pearson's r = 0.9219
+Lin's ccc = 0.9195
+RMSE = 0.1133
+
+Min_Max_Scaling-mae100:
+y = 0.953x + (0.059)
+res_std = 0.1237
+Pearson's r = 0.9035
+Lin's ccc = 0.8955
+RMSE = 0.1291
+
+Min_Max_Scaling-mse100:
+y = 0.974x + (0.032)
+res_std = 0.1177
+Pearson's r = 0.9101
+Lin's ccc = 0.9058
+RMSE = 0.1194
+
+Min_Max_Scaling-smooth100:
+y = 0.973x + (0.040)
+res_std = 0.1258
+Pearson's r = 0.9092
+Lin's ccc = 0.9032
+RMSE = 0.1289
+
+z_score-mse2:
+y = -0.001x + (0.500)
+res_std = 0.0071
+Pearson's r = -0.0269
+Lin's ccc = -0.0013
+RMSE = 0.2887
+z_score-mse3:
+y = 1.054x + (0.002)
+res_std = 0.1257
+Pearson's r = 0.9164
+Lin's ccc = 0.9027
+RMSE = 0.1302
+z_score-mse4:
+y = 0.973x + (0.013)
+res_std = 0.1146
+Pearson's r = 0.9266
+Lin's ccc = 0.9255
+RMSE = 0.1149
+
+z_score-mse5:
+y = 0.990x + (0.015)
+res_std = 0.1009
+Pearson's r = 0.9402
+Lin's ccc = 0.9385
+RMSE = 0.1013
+
+z_score-mse6:
+y = 1.024x + (0.004)
+res_std = 0.1103
+Pearson's r = 0.9302
+Lin's ccc = 0.9246
+RMSE = 0.1116
+
+z_score-mse7:
+y = 0.978x + (-0.005)
+res_std = 0.1068
+Pearson's r = 0.9288
+Lin's ccc = 0.9259
+RMSE = 0.1083
+
+z_score-mse8:
+y = 0.994x + (0.006)
+res_std = 0.1129
+Pearson's r = 0.9286
+Lin's ccc = 0.9264
+RMSE = 0.1130
+
+z_score-mse8:
+y = 0.985x + (0.013)
+res_std = 0.1104
+Pearson's r = 0.9280
+Lin's ccc = 0.9262
+RMSE = 0.1106
+
+z_score-mse10:
+y = 0.925x + (0.042)
+res_std = 0.1090
+Pearson's r = 0.9266
+Lin's ccc = 0.9264
+RMSE = 0.1113
+
+z_score-mse50:
+y = 1.034x + (0.019)
+res_std = 0.1100
+Pearson's r = 0.9300
+Lin's ccc = 0.9170
+RMSE = 0.1164
+
+z_score-mse100:
+y = 1.022x + (0.005)
+res_std = 0.1102
+Pearson's r = 0.9331
+Lin's ccc = 0.9278
+RMSE = 0.1116
+
+z_score-mse4667:
+y = 0.932x + (0.038)
+res_std = 0.1106
+Pearson's r = 0.9213
+Lin's ccc = 0.9211
+RMSE = 0.1124
